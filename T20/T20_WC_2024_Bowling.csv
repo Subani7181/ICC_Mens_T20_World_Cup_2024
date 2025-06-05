@@ -1,0 +1,101 @@
+Name,Country_Code,Matches_Played,Innings_Bowled,Balls,Overs,Maidens_Earned,Runs_Conceded,Wickets,Bowling_Average,Economy_rate,Bowling_strike_rate,Four_wickets_in_innings,Five_wickets_in_innings
+Fazalhaq Farooqi,Afghanistan,8,8,152,25.2,0,160,17,9.41,6.31,8.94,1,1
+Arshdeep Singh,India,8,8,180,30,0,215,17,12.64,7.16,10.58,1,0
+JJ Bumrah,India,8,8,178,29.4,2,124,15,8.26,4.17,11.86,0,0
+A Nortje,South Africa,9,9,210,35,0,201,15,13.4,5.74,14,1,0
+Rashid Khan,Afghanistan,8,8,174,29,0,179,14,12.78,6.17,12.42,2,0
+Rishad Hossain,Bangladesh,7,7,150,25,0,194,14,13.85,7.76,10.71,0,0
+Naveen-ul-Haq,Afghanistan,8,8,160,26.4,0,160,13,12.3,6,12.3,1,0
+AS Joseph,West Indies,7,7,147,24.3,0,177,13,13.61,7.22,11.3,1,0
+A Zampa,Australia,7,7,168,28,0,187,13,14.38,6.67,12.92,1,0
+K Rabada,South Africa,9,9,186,31,2,195,13,15,6.29,14.3,0,0
+T Shamsi,South Africa,5,5,101,16.5,0,128,11,11.63,7.6,9.18,1,0
+AD Russell,West Indies,7,7,121,20.1,0,141,11,12.81,6.99,11,0,0
+Tanzim Hasan Sakib,Bangladesh,7,7,144,24,2,149,11,13.54,6.2,13.09,1,0
+KA Maharaj,South Africa,8,8,168,28,0,175,11,15.9,6.25,15.27,0,0
+HH Pandya,India,8,8,150,25,2,191,11,17.36,7.64,13.63,0,0
+CJ Jordan,England,5,5,83,13.5,0,134,10,13.4,9.68,8.3,1,0
+Kuldeep Yadav,India,5,5,120,20,0,139,10,13.9,6.95,12,0,0
+MP Stoinis,Australia,7,6,102,17,0,151,10,15.1,8.88,10.2,0,0
+AU Rashid,England,8,8,168,28,0,186,10,18.6,6.64,16.8,1,0
+JC Archer,England,8,8,158,26.2,1,190,10,19,7.21,15.8,0,0
+TA Boult,New Zealand,4,4,96,16,2,59,9,6.55,3.68,10.66,0,0
+AJ Hosein,West Indies,7,7,150,25,1,141,9,15.66,5.64,16.66,0,1
+PJ Cummins,Australia,5,5,114,19,1,144,9,16,7.57,12.66,0,0
+AR Patel,India,8,8,132,22,1,173,9,19.22,7.86,14.66,0,0
+N Thushara,Sri Lanka,3,3,64,10.4,0,60,8,7.5,5.62,8,1,0
+Taskin Ahmed,Bangladesh,6,6,128,21.2,1,137,8,17.12,6.42,16,0,0
+Mustafizur Rahman,Bangladesh,7,7,156,26,1,142,8,17.75,5.46,19.5,0,0
+G Motie,West Indies,7,7,126,21,0,149,8,18.62,7.09,15.75,0,0
+TG Southee,New Zealand,3,3,72,12,1,36,7,5.14,3,10.28,0,0
+Gulbadin Naib,Afghanistan,8,4,54,9,0,47,7,6.71,5.22,7.71,1,0
+LH Ferguson,New Zealand,4,4,96,16,4,64,7,9.14,4,13.71,0,0
+Mohammad Amir,Pakistan,4,4,96,16,1,72,7,10.28,4.5,13.71,0,0
+RL Chase,West Indies,6,5,90,15,0,80,7,11.42,5.33,12.85,0,0
+Haris Rauf,Pakistan,4,4,90,15,0,101,7,14.42,6.73,12.85,0,0
+R Trumpelmann,Namibia,4,4,72,12,0,107,7,15.28,8.91,10.28,1,0
+LV van Beek,Netherlands,4,4,92,15.2,1,127,7,18.14,8.28,13.14,0,0
+M Jansen,South Africa,9,9,187,31.1,0,213,7,30.42,6.83,26.71,0,0
+DS Airee,Nepal,3,3,57,9.3,0,49,6,8.16,5.15,9.5,0,0
+Mehran Khan,Oman,4,3,48,8,1,61,6,10.16,7.62,8,0,0
+PW Hasaranga,Sri Lanka,3,3,68,11.2,0,79,6,13.16,6.97,11.33,0,0
+OEG Baartman,South Africa,5,5,114,19,1,94,6,15.66,4.94,19,1,0
+SN Netravalkar,United States of America,6,6,113,18.5,0,125,6,20.83,6.63,18.83,0,0
+D Heyliger,Canada,3,3,66,11,0,55,5,11,5,13.2,0,0
+BJ McCarthy,Ireland,3,3,62,10.2,1,57,5,11.4,5.51,12.4,0,0
+B Masaba,Uganda,4,3,72,12,0,69,5,13.8,5.75,14.4,0,0
+Naseem Shah,Pakistan,3,3,72,12,0,71,5,14.2,5.91,14.4,0,0
+D Wiese,Namibia,4,4,61,10.1,0,79,5,15.8,7.77,12.2,0,0
+BTJ Wheal,Scotland,4,3,70,11.4,1,80,5,16,6.85,14,0,0
+PA van Meekeren,Netherlands,4,4,90,15,1,84,5,16.8,5.6,18,0,0
+C Kyewuta,Uganda,4,4,79,13.1,0,97,5,19.4,7.36,15.8,0,0
+TJG Pringle,Netherlands,4,4,78,13,0,101,5,20.2,7.76,15.6,0,0
+Shaheen Shah Afridi,Pakistan,4,4,96,16,0,105,5,21,6.56,19.2,0,0
+MA Starc,Australia,5,5,108,18,0,154,5,30.8,8.55,21.6,0,0
+K Bhurtel,Nepal,3,2,48,8,0,41,4,10.25,5.12,12,1,0
+AR Ramjani,Uganda,4,3,66,11,1,66,4,16.5,6,16.5,0,0
+A Nao,Papua New Guinea,4,4,78,13,1,73,4,18.25,5.61,19.5,0,0
+NT Ellis,Australia,3,3,66,11,1,74,4,18.5,6.72,16.5,0,0
+MJ Santner,New Zealand,4,4,82,13.4,0,76,4,19,5.56,20.5,0,0
+MG Erasmus,Namibia,4,4,66,11,0,81,4,20.25,7.36,16.5,0,0
+SM Sharif,Scotland,2,2,48,8,0,82,4,20.5,10.25,12,0,0
+Bilal Khan,Oman,4,4,73,12.1,0,109,4,27.25,8.95,18.25,0,0
+Harmeet Singh,United States of America,6,5,96,16,0,139,4,34.75,8.68,24,0,0
+JR Hazlewood,Australia,6,6,144,24,1,145,4,36.25,6.04,36,0,0
+Sompal Kami,Nepal,3,3,54,9,1,34,3,11.33,3.77,18,0,0
+A Dutt,Netherlands,2,2,42,7,0,40,3,13.33,5.71,14,0,0
+A Vala,Papua New Guinea,4,3,42,7,1,42,3,14,6,14,0,0
+N Vanua,Papua New Guinea,3,3,48,8,0,43,3,14.33,5.37,16,0,0
+Imad Wasim,Pakistan,3,3,66,11,0,44,3,14.66,4,22,0,0
+OC McCoy,West Indies,3,3,37,6.1,0,49,3,16.33,7.94,12.33,0,0
+M Pathirana,Sri Lanka,3,3,60,10,0,51,3,17,5.1,20,0,0
+BM Scholtz,Namibia,4,3,60,10,0,64,3,21.33,6.4,20,0,0
+MM Ali,England,8,4,54,9,0,73,3,24.33,8.11,18,0,0
+MR Adair,Ireland,3,3,72,12,0,74,3,24.66,6.16,24,0,0
+JOA Gordon,Canada,3,3,63,10.3,0,77,3,25.66,7.33,21,0,0
+VJ Kingma,Netherlands,4,4,78,13,1,78,3,26,6,26,0,0
+LS Livingstone,England,8,4,66,11,0,83,3,27.66,7.54,22,0,0
+Mohammad Nabi,Afghanistan,8,7,78,13,0,88,3,29.33,6.76,26,0,0
+NP Kenjige,United States of America,4,4,60,10,0,89,3,29.66,8.9,20,0,0
+MRJ Watt,Scotland,4,3,72,12,0,98,3,32.66,8.16,24,0,0
+GJ Maxwell,Australia,7,5,72,12,0,103,3,34.33,8.58,24,0,0
+MA Wood,England,5,5,78,13,0,113,3,37.66,8.69,26,0,0
+SM Curran,England,5,5,72,12,0,115,3,38.33,9.58,24,0,0
+BFW de Leede,Netherlands,4,4,83,13.5,1,119,3,39.66,8.6,27.66,0,0
+Shakib Al Hasan,Bangladesh,7,6,104,17.2,0,130,3,43.33,7.5,34.66,0,0
+Ali Khan,United States of America,6,6,116,19.2,0,181,3,60.33,9.36,38.66,0,0
+R Ravindra,New Zealand,3,1,18,3,1,9,2,4.5,3,9,0,0
+BJ Currie,Scotland,2,1,24,4,0,16,2,8,4,12,0,0
+B White,Ireland,2,2,18,3,0,17,2,8.5,5.66,9,0,0
+RK Paudel,Nepal,3,1,24,4,0,20,2,10,5,12,0,0
+MD Shanaka,Sri Lanka,3,3,30,5,1,27,2,13.5,5.4,15,0,0
+IS Sodhi,New Zealand,1,1,22,3.4,0,29,2,14.5,7.9,11,0,0
+CN Greaves,Scotland,4,3,30,5,0,30,2,15,6,15,0,0
+CA Young,Ireland,1,1,24,4,0,32,2,16,8,12,0,0
+F Nsubuga,Uganda,2,2,42,7,2,33,2,16.5,4.71,21,0,0
+KV Morea,Papua New Guinea,2,2,32,5.2,0,34,2,17,6.37,16,0,0
+S Lamichhane,Nepal,2,2,48,8,1,35,2,17.5,4.37,24,0,0
+MJ Henry,New Zealand,1,1,24,4,0,37,2,18.5,9.25,12,0,0
+C Campher,Ireland,3,3,42,7,0,39,2,19.5,5.57,21,0,0
+SI Kamea,Papua New Guinea,2,2,36,6,0,39,2,19.5,6.5,18,0,0
+J Miyagi,Uganda,3,3,56,9.2,0,56,2,28,6,28,0,0
